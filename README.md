@@ -3,4 +3,4 @@
 
 ### Progreso del CURSO
 
-xfun::embed_file("progress.pdf")
+[embed]./Progress.pdf[/embed]
