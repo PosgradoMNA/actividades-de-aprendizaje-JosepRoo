@@ -3,4 +3,4 @@
 
 ### Progreso del CURSO
 
-[embed]./Progress.pdf[/embed]
+[embed]https://github.com/PosgradoMNA/actividades-de-aprendizaje-JosepRoo/blob/main/Progress.pdf[/embed]
